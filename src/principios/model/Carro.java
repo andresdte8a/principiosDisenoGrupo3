@@ -7,7 +7,7 @@ package principios.model;
 
 /**
  *
- * @author Nine
+ * @author andres vergara, diana pastrana, andres duarte
  */
 public class Carro extends Vehiculo {
     

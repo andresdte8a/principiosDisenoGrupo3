@@ -5,11 +5,9 @@
  */
 package principios.model;
 
-import principios.interfaces.IVehiculoCombustible;
-
 /**
  *
- * @author Nine
+ * @author andres vergara, diana pastrana, andres duarte
  */
 public class Vehiculo {
     

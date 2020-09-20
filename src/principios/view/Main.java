@@ -5,13 +5,13 @@
  */
 package principios.view;
 
+import principios.model.CargarCombustible;
 import principios.model.Carro;
 import principios.model.Avion;
-import principios.model.CargarCombustible;
 
 /**
  *
- * @author Nine
+ * @author andres vergara, diana pastrana, andres duarte
  */
 public class Main {
 

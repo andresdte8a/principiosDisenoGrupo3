@@ -9,7 +9,7 @@ import principios.model.Vehiculo;
 
 /**
  *
- * @author Nine
+ * @author andres vergara, diana pastrana, andres duarte
  */
 public interface IVehiculoCombustible {
 
