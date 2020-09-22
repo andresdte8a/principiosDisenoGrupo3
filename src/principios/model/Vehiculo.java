@@ -13,10 +13,28 @@ public class Vehiculo {
     
     private int topNivelCombustible;
     private int nivelCombustible;
-
+    private int numeroTurbinas;
+    private int NumeroEjes;
+    
     public Vehiculo() {
     }   
     
+
+    public int getNumeroEjes() {
+        return NumeroEjes;
+    }
+
+    public void setNumeroEjes(int NumeroEjes) {
+        this.NumeroEjes = NumeroEjes;
+    }
+       
+    public int getNumeroTurbinas() {
+        return numeroTurbinas;
+    }
+
+    public void setNumeroTurbinas(int numeroTurbinas) {
+        this.numeroTurbinas = numeroTurbinas;
+    }
 
     public int getTopNivelCombustible() {
         return topNivelCombustible;

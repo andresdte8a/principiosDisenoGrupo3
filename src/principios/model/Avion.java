@@ -11,15 +11,5 @@ package principios.model;
  */
 public class Avion extends Vehiculo {
  
-    private int numeroTurbinas;
 
-    public int getNumeroTurbinas() {
-        return numeroTurbinas;
-    }
-
-    public void setNumeroTurbinas(int numeroTurbinas) {
-        this.numeroTurbinas = numeroTurbinas;
-    }
-    
-    
 }
